@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: Document_Intelligence_Platform
+Version: 0.1
+Summary: RAG-powered LLMOps pipeline for enterprise document Q&A.
+Author: Harikrishna Nariyanpilly
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.10
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pylint; extra == "dev"
+Requires-Dist: ipykernel; extra == "dev"
+Dynamic: author
+Dynamic: classifier
+Dynamic: provides-extra
+Dynamic: requires-python
+Dynamic: summary
